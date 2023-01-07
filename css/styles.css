@@ -1,0 +1,33 @@
+/* General Styles */
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+button {
+  padding: 0;
+  margin: 0;
+  color: inherit;
+}
+
+:root {
+  --colors-pale-blue: hsl(225, 100%, 100%, 94%);
+  --colors-very-pale-blue: hsl(225, 100%, 98%);
+  --colors-bright-blue: hsl(245, 75%, 52%);
+  --colors-dark-blue: hsl(223, 47%, 23%);
+  --colors-desaturated-blue: hsl(224, 23%, 55%);
+}
+/* General Styles End */
