@@ -44,5 +44,5 @@ Users should be able to:
 
 ## Author
 
-- Linked In - [Mohamed Agina](https://www.linkedin.com/in/mohamed-agina/)
+- LinkedIn - [Mohamed Agina](https://www.linkedin.com/in/mohamed-agina/)
 - Frontend Mentor - [@mohamedagina](https://www.frontendmentor.io/profile/mohamedagina)
